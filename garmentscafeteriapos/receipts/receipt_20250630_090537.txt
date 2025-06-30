@@ -1,0 +1,13 @@
+======= RECEIPT =======
+Garments Cafeteria Inc.
+Date: 2025-06-30 09:05:37
+Cashier: manager
+-----------------------
+Tea             x5  $10.00
+Sandwich        x5  $27.50
+-----------------------
+Subtotal: $37.50
+Discount (10%): -$3.75
+TOTAL: $33.75
+=======================
+Thank you!
